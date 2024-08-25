@@ -1,0 +1,4 @@
+       Long1(deg)       Lati1(deg)      Long2(deg)      Lati2(deg)       Depth(km)   Strike(deg)    Width(km)    Dip(deg)        Slip(m)      Rake(deg)     Tens(cm)          HWBlock              FWBlock
+      103.104437       27.346295      102.454962       26.254440           0.000         207.966         (20.00)         (90.00)           0.000           0.000           0.000                 CDB                 YNB
+      102.454962       26.254440      102.063885       24.877165           0.000         194.546         (20.00)         (90.00)           0.000           0.000           0.000                 CDB                 YNB
+>>

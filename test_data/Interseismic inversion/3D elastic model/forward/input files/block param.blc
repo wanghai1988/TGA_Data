@@ -1,0 +1,4 @@
+Name      Long(deg)    Lati(deg)  R_X(nanorad/yr)  Sig1(nanorad/yr)  R_Y(nanorad/yr)  Sig2(nanorad/yr)  R_Z(nanorad/yr)  Sig3(nanorad/yr)  S_X(nanorad/yr)  Sig4(nanorad/yr)  S_Y(nanorad/yr)  Sig5(nanorad/yr)   S_XY(nanorad/yr)   Sig6(nanorad/yr)
+CDB        101.81         26.67	   6.189      0       -99.466        0       -40.816        0       -3.221         0         2.108         0       3.240       0
+HNB        103.50        26.84	  -6.844      0       5.851           0         8.411         0      -0.650          0         0.246         0       0.907       0  
+YNB        102.67        25.31	  -4.440      0       -33.142        0       -8.368         0       1.049           0        -1.356        0       3.184       0  
