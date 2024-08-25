@@ -1,0 +1,5 @@
+Long(deg) Lati(deg) E1(nanostr/yr) Sig1(nanostr/yr) E2(nanostr/yr) Sig2(nanostr/yr) Azi(deg) Sig3(deg) R(nanorad/yr) Sig4(nanorad/yr)
+ 104.7       27.5     1.365           0            -1.891        0           36.2716     0       11.946        0
+ 105.2       27.5      1.5539         0            -2.611        0         -45.9496      0      30.885        0
+ 104.7       27.0     1.365           0            -1.891        0           36.2716     0       11.946        0
+ 105.2       27.0      1.5539         0            -2.611        0         -45.9496      0      30.885        0
